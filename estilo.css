@@ -1,0 +1,13 @@
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+	background-color: blue;
+	color: white;
+    font-family: 'Georgia', 'Times New Roman', 'Verdana';
+    font-size: 2rem;
+}
